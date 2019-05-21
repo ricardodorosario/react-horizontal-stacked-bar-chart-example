@@ -1,7 +1,22 @@
 {
   "name": "react-horizontal-stacked-bar-chart-example",
   "version": "0.1.0",
-  "private": true,
+  "description": "React horizontal stacked bar responsive chart component examples",
+  "author": {
+    "name": "Ricardo do Rosario",
+    "email": "ricardorosario20@gmail.com"
+  },
+  "keywords": [
+    "stacked-chart-example",
+    "horizontal-stacked-chart-example",
+    "horizontal-chart-example",
+    "horizontal-bar-example",
+    "react-horizontal-bar-example",
+    "react-example",
+    "bar-example",
+    "chart-example"
+  ],
+  "license": "MIT",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
